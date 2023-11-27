@@ -18,3 +18,15 @@ Model Calibration in Dense Classification with Adaptive Label Perturbation<br>
 **Jiawei Liu**, Changkun Ye, Shan Wang, Ruikai Cui, Jing Zhang, Kaihao Zhang, Nick Barnes<br>
 <em>International Conference on Computer Vision (ICCV), 2023</em><br>
 <a target="_blank" href="https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Model_Calibration_in_Dense_Classification_with_Adaptive_Label_Perturbation_ICCV_2023_paper.pdf">[Paper]</a> <a target="_blank" href="https://github.com/Carlisle-Liu/ASLP">[Github]</a>
+
+
+P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds<br>
+Ruikai Cui, Shi Qiu, Saeed Anwar, **Jiawei Liu**, Chaoyue Xing, Jing Zhang, Nick Barnes<br>
+<em>International Conference on Computer Vision (ICCV), 2023</em><br>
+<a target="_blank" href="https://openaccess.thecvf.com/content/ICCV2023/papers/Cui_P2C_Self-Supervised_Point_Cloud_Completion_from_Single_Partial_Clouds_ICCV_2023_paper.pdf">[Paper]</a> <a target="_blank" href="https://github.com/CuiRuikai/Partial2Complete">[Github]</a>
+
+
+Homography Guided Temporal Fusion foro Road Line and Marking Segmentation<br>
+Shan Wang, Chuong Nguyen, **Jiawei Liu**, Kaihao Zhang, Wenhan Luo, Yanhao Zhang, Sundaram Muthu, Fahira Afzal Maken, Hongdong Li<br>
+<em>International Conference on Computer Vision (ICCV), 2023</em><br>
+<a target="_blank" href="https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Homography_Guided_Temporal_Fusion_for_Road_Line_and_Marking_Segmentation_ICCV_2023_paper.pdf">[Paper]</a>
