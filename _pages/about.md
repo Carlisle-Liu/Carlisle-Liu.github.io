@@ -14,3 +14,7 @@ My research focuses on the trustworthiness of deep neural networks in computer v
 
 Publication
 =====
+Model Calibration in Dense Classification with Adaptive Label Perturbation<br>
+**Jiawei Liu**, Changkun Ye, Shan Wang, Ruikai Cui, Jing Zhang, Kaihao Zhang, Nick Barnes<br>
+<em>International Conference on Computer Vision (ICCV), 2023<em/><br>
+<a target="_blank" href="https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Model_Calibration_in_Dense_Classification_with_Adaptive_Label_Perturbation_ICCV_2023_paper.pdf">[Paper]<a/> <a target="_blank" href="https://github.com/Carlisle-Liu/ASLP">[Github]<a/>
