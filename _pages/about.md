@@ -30,3 +30,13 @@ Homography Guided Temporal Fusion foro Road Line and Marking Segmentation<br>
 Shan Wang, Chuong Nguyen, **Jiawei Liu**, Kaihao Zhang, Wenhan Luo, Yanhao Zhang, Sundaram Muthu, Fahira Afzal Maken, Hongdong Li<br>
 <em>International Conference on Computer Vision (ICCV), 2023</em><br>
 <a target="_blank" href="https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Homography_Guided_Temporal_Fusion_for_Road_Line_and_Marking_Segmentation_ICCV_2023_paper.pdf">[Paper]</a>
+
+Modeling Aleatoric Uncertainty for Camouflaged Object Detection<br>
+**Jiawei Liu**, Jing Zhang, Nick Barnes<br>
+Winter Conference on Applications of Computer Vision (WACV), 2022<br>
+<a target="_blank" href="https://openaccess.thecvf.com/content/WACV2022/papers/Liu_Modeling_Aleatoric_Uncertainty_for_Camouflaged_Object_Detection_WACV_2022_paper.pdf">[Paper]</a> <a target="_blank" href="https://github.com/Carlisle-Liu/OCENet">[Github]</a>
+
+Learning Structure-Aware Semantic Segmentation with Image-Level Supervision<br>
+**Jiawei Liu**, Jing Zhang, Yicong Hong, Nick Barnes<br>
+International Joint Conference on Neural Networks (IJCNN), 2021<br>
+<a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9533846">[Paper]</a> <a target="_blank" href="https://github.com/Carlisle-Liu/SBNet">[Github]</a>
