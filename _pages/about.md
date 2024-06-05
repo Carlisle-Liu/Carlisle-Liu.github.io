@@ -17,7 +17,7 @@ Publication
 Self-Calibrating Vicinal Risk Minimisation for Model Calibration<br>
 **Jiawei Liu**, Changkun Ye, Ruikai Cui, Nick Barnes<br>
 <em>Conference on Computer Vision and Pattern Recognition (CVPR), 2024</em><br>
-[Paper] <a target="_blank" href="https://github.com/Carlisle-Liu/SCVRM">[Github]</a>
+[Paper] [Github]
 
 Model Calibration in Dense Classification with Adaptive Label Perturbation<br>
 **Jiawei Liu**, Changkun Ye, Shan Wang, Ruikai Cui, Jing Zhang, Kaihao Zhang, Nick Barnes<br>
