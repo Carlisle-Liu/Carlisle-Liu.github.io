@@ -17,7 +17,7 @@ Publication
 Self-Calibrating Vicinal Risk Minimisation for Model Calibration<br>
 **Jiawei Liu**, Changkun Ye, Ruikai Cui, Nick Barnes<br>
 <em>Conference on Computer Vision and Pattern Recognition (CVPR), 2024</em><br>
-[Paper] <a target="_blank" href=https://github.com/Carlisle-Liu/SCVRM>[Github]</a>
+[Paper] <a target="_blank" href="https://github.com/Carlisle-Liu/SCVRM">[Github]</a>
 
 Model Calibration in Dense Classification with Adaptive Label Perturbation<br>
 **Jiawei Liu**, Changkun Ye, Shan Wang, Ruikai Cui, Jing Zhang, Kaihao Zhang, Nick Barnes<br>
@@ -37,7 +37,6 @@ International Joint Conference on Neural Networks (IJCNN), 2021<br>
 View From Above: Orthogonal Viewpoint Aware Cross-View Localization<br>
 Shan Wang, Chuong Nguyen, **Jiawei Liu**, Yanhao Zhang, Sundaram Muthu, Fahira Afzal Maken, Kaihao Zhang, Hongdong Li<br>
 <em>Conference on Computer Vision and Pattern Recognition (CVPR), 2024</em><br>
-[Paper] [Github]
 
 P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds<br>
 Ruikai Cui, Shi Qiu, Saeed Anwar, **Jiawei Liu**, Chaoyue Xing, Jing Zhang, Nick Barnes<br>
