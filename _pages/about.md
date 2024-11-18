@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Ph.D student of the <a target="_blank" href="https://comp.anu.edu.au">Research School of Computing</a> at the <a target="_blank" href="https://en.wikipedia.org/wiki/Australian_National_University">Australian National University</a>. My research on computer vision and machine learning is supervised by <a target="_blank" href="http://users.cecs.anu.edu.au/~nmb/">Prof. Nick Barnes</a>, <a target="_blank" href="https://russelltsuchida.github.io">Dr. Russell Tsuchida</a>, and <a target="_blank" href="https://users.cecs.anu.edu.au/~hongdong/">Prof. Hongdong Li</a>. Before that, I received my master degree, majoring the computer vision and machine learning, from the Australian National University in 2020.
 
-My research focuses on calibrating deep neural networks. I'm also interested in uncertainty quantitifacation, out-of-distribution detection and adversarial robustness.
+My research focuses on calibrating deep neural networks. I'm also interested in uncertainty quantification, out-of-distribution detection and adversarial robustness.
 
 Publication
 =====
